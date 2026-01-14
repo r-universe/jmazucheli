@@ -10,4 +10,4 @@
 	url = https://github.com/cran/ugomquantreg
 [submodule "vasicekreg"]
 	path = vasicekreg
-	url = https://github.com/cran/vasicekreg
+	url = https://github.com/jmazucheli/vasicekreg
