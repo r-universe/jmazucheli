@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "mle.tools"]
-	path = mle.tools
-	url = https://github.com/cran/mle.tools
 [submodule "ugomquantreg"]
 	path = ugomquantreg
 	url = https://github.com/cran/ugomquantreg
